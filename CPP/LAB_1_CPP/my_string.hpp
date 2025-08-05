@@ -1,0 +1,1 @@
+void strcpy(char* obj1, char* obj2);
